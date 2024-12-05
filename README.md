@@ -1,5 +1,5 @@
 # Cloud-Security-and-Virtualization
-Module 13: Introduction To Cloud Computing, Cloud Systems Management, Load Balancing and Redundancy
+Module 13: Introduction To Cloud Computing, Cloud Systems Management, Load Balancing and Redundancy, Testing Redundant Systems
 
 Module Description
 The Cloud Security and Virtualization module will introduce cloud computing service models, cloud networking, firewalls, and virtual computing.
